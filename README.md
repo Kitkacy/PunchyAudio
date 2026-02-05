@@ -6,8 +6,8 @@ A macOS menu bar audio visualizer that reacts to system audio in real time.
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 
 <img width="279" height="277" alt="Screenshot 2026-02-06 at 00 10 45" src="https://github.com/user-attachments/assets/e8d47995-ee3e-44a3-ae4a-051ef7c15770" />
-<img width="833" height="847" alt="Screenshot 2026-02-06 at 00 11 06" src="https://github.com/user-attachments/assets/2cc9debb-af65-49f1-84d6-87a7f3e22a53" />
-<img width="833" height="847" alt="Screenshot 2026-02-06 at 00 11 06" src="https://github.com/user-attachments/assets/f8e0a326-da00-4892-8eac-be21047bd155" />
+<img width="279" height="288" alt="Screenshot 2026-02-06 at 00 11 06" src="https://github.com/user-attachments/assets/2cc9debb-af65-49f1-84d6-87a7f3e22a53" />
+<img width="279" height="288" alt="Screenshot 2026-02-06 at 00 11 06" src="https://github.com/user-attachments/assets/f8e0a326-da00-4892-8eac-be21047bd155" />
 
 ## Features
 
