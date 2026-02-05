@@ -9,6 +9,7 @@ A macOS menu bar audio visualizer that reacts to system audio in real time.
 <img width="279" height="288" alt="Screenshot 2026-02-06 at 00 11 06" src="https://github.com/user-attachments/assets/2cc9debb-af65-49f1-84d6-87a7f3e22a53" />
 <img width="279" height="288" alt="Screenshot 2026-02-06 at 00 11 14" src="https://github.com/user-attachments/assets/46aa6bb1-f145-450a-b7a1-46635732d747" />
 <img width="279" height="288" alt="Screenshot 2026-02-06 at 00 20 56" src="https://github.com/user-attachments/assets/db9398d9-19cf-4470-bebe-927849ec0dc3" />
+<img width="279" height="288" alt="Screenshot 2026-02-06 at 00 20 56" src="https://github.com/user-attachments/assets/e8904e1d-bb2f-462e-b770-a75d18cac993" />
 
 ## Features
 
